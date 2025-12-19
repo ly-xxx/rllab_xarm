@@ -6,12 +6,6 @@ The code in the agents directory now prefers these local assets over the ones in
 
 This helps with project portability and makes development easier.
 
-这是一份为您生成的 `README.md` 文件草稿。它是根据您仓库中的文件结构（包含 `rllab`、`sapien`、`robotiq` 等关键词）以及我们刚才共同修复的 **URDF 模型特性**（集成力矩传感器和摄像头支架）定制的。
-
-您可以根据实际情况微调其中的联系方式或具体安装步骤。
-
----
-
 # xArm6 Robot Description & Simulation (RLLab/Sapien/ROS)
 
 这个仓库包含了 **UFACTORY xArm 6** 机械臂及其相关配件的仿真模型文件（URDF, OBJ, STL, SRDF）。
